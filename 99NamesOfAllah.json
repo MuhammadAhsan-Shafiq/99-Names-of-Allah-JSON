@@ -1,0 +1,893 @@
+[
+    {
+        "name": "الرَّحْمَنُ",
+        "transliteration": "Ar Rahmaan",
+        "number": 1,
+        "start": 11.90,
+        "en": {
+            "meaning": "The Beneficent"
+        }
+    },
+    {
+        "name": "الرَّحِيمُ",
+        "transliteration": "Ar Raheem",
+        "number": 2,
+        "start": 13.80,
+        "en": {
+            "meaning": "The Merciful"
+        }
+    },
+    {
+        "name": "الْمَلِكُ",
+        "transliteration": "Al Malik",
+        "number": 3,
+        "start": 14.90,
+        "en": {
+            "meaning": "The King / Eternal Lord"
+        }
+    },
+    {
+        "name": "الْقُدُّوسُ",
+        "transliteration": "Al Quddus",
+        "number": 4,
+        "start": 16.50,
+        "en": {
+            "meaning": "The Purest"
+        }
+    },
+    {
+        "name": "السَّلاَمُ",
+        "transliteration": "As Salaam",
+        "number": 5,
+        "start": 18.40,
+        "en": {
+            "meaning": "The Source of Peace"
+        }
+    },
+    {
+        "name": "الْمُؤْمِنُ",
+        "transliteration": "Al Mu'min",
+        "number": 6,
+        "start": 20.20,
+        "en": {
+            "meaning": "The inspirer of faith"
+        }
+    },
+    {
+        "name": "الْمُهَيْمِنُ",
+        "transliteration": "Al Muhaymin",
+        "number": 7,
+        "start": 21.40,
+        "en": {
+            "meaning": "The Guardian"
+        }
+    },
+    {
+        "name": "الْعَزِيزُ",
+        "transliteration": "Al Azeez",
+        "number": 8,
+        "start": 23.10,
+        "en": {
+            "meaning": "The Precious / The Most Mighty"
+        }
+    },
+    {
+        "name": "الْجَبَّارُ",
+        "transliteration": "Al Jabbaar",
+        "number": 9,
+        "start": 24.80,
+        "en": {
+            "meaning": "The Compeller"
+        }
+    },
+    {
+        "name": "الْمُتَكَبِّرُ",
+        "transliteration": "Al Mutakabbir",
+        "number": 10,
+        "start": 26.20,
+        "en": {
+            "meaning": "The Greatest"
+        }
+    },
+    {
+        "name": "الْخَالِقُ",
+        "transliteration": "Al Khaaliq",
+        "number": 11,
+        "start": 28.10,
+        "en": {
+            "meaning": "The Creator"
+        }
+    },
+    {
+        "name": "الْبَارِئُ",
+        "transliteration": "Al Baari",
+        "number": 12,
+        "start": 30.00,
+        "en": {
+            "meaning": "The Maker of Order"
+        }
+    },
+    {
+        "name": "الْمُصَوِّرُ",
+        "transliteration": "Al Musawwir",
+        "number": 13,
+        "start": 32.20,
+        "en": {
+            "meaning": "The Shaper of Beauty"
+        }
+    },
+    {
+        "name": "الْغَفَّارُ",
+        "transliteration": "Al Ghaffaar",
+        "number": 14,
+        "start": 33.50,
+        "en": {
+            "meaning": "The Forgiving"
+        }
+    },
+    {
+        "name": "الْقَهَّارُ",
+        "transliteration": "Al Qahhaar",
+        "number": 15,
+        "start": 34.40,
+        "en": {
+            "meaning": "The Subduer"
+        }
+    },
+    {
+        "name": "الْوَهَّابُ",
+        "transliteration": "Al Wahhaab",
+        "number": 16,
+        "start": 36.60,
+        "en": {
+            "meaning": "The Giver of All"
+        }
+    },
+    {
+        "name": "الرَّزَّاقُ",
+        "transliteration": "Ar Razzaaq",
+        "number": 17,
+        "start": 38.50,
+        "en": {
+            "meaning": "The Sustainer"
+        }
+    },
+    {
+        "name": "الْفَتَّاحُ",
+        "transliteration": "Al Fattaah",
+        "number": 18,
+        "start": 40.00,
+        "en": {
+            "meaning": "The Opener"
+        }
+    },
+    {
+        "name": "اَلْعَلِيْمُ",
+        "transliteration": "Al 'Aleem",
+        "number": 19,
+        "start": 41.50,
+        "en": {
+            "meaning": "The Knower of all"
+        }
+    },
+    {
+        "name": "الْقَابِضُ",
+        "transliteration": "Al Qaabid",
+        "number": 20,
+        "start": 43.40,
+        "en": {
+            "meaning": "The Constrictor"
+        }
+    },
+    {
+        "name": "الْبَاسِطُ",
+        "transliteration": "Al Baasit",
+        "number": 21,
+        "start": 45.10,
+        "en": {
+            "meaning": "The Reliever"
+        }
+    },
+    {
+        "name": "الْخَافِضُ",
+        "transliteration": "Al Khaafid",
+        "number": 22,
+        "start": 47.00,
+        "en": {
+            "meaning": "The Abaser"
+        }
+    },
+    {
+        "name": "الرَّافِعُ",
+        "transliteration": "Ar Raafi'",
+        "number": 23,
+        "start": 48.50,
+        "en": {
+            "meaning": "The Exalter"
+        }
+    },
+    {
+        "name": "الْمُعِزُّ",
+        "transliteration": "Al Mu'iz",
+        "number": 24,
+        "start": 50.50,
+        "en": {
+            "meaning": "The Bestower of Honour"
+        }
+    },
+    {
+        "name": "المُذِلُّ",
+        "transliteration": "Al Mudhil",
+        "number": 25,
+        "start": 51.50,
+        "en": {
+            "meaning": "The Humiliator"
+        }
+    },
+    {
+        "name": "السَّمِيعُ",
+        "transliteration": "As Samee'",
+        "number": 26,
+        "start": 52.60,
+        "en": {
+            "meaning": "The Hearer of all"
+        }
+    },
+    {
+        "name": "الْبَصِيرُ",
+        "transliteration": "Al Baseer",
+        "number": 27,
+        "start": 54.10,
+        "en": {
+            "meaning": "The Seer of all"
+        }
+    },
+    {
+        "name": "الْحَكَمُ",
+        "transliteration": "Al Hakam",
+        "number": 28,
+        "start": 55.90,
+        "en": {
+            "meaning": "The Judge"
+        }
+    },
+    {
+        "name": "الْعَدْلُ",
+        "transliteration": "Al 'Adl",
+        "number": 29,
+        "start": 56.40,
+        "en": {
+            "meaning": "The Just"
+        }
+    },
+    {
+        "name": "اللَّطِيفُ",
+        "transliteration": "Al Lateef",
+        "number": 30,
+        "start": 57.50,
+        "en": {
+            "meaning": "The Subtle One"
+        }
+    },
+    {
+        "name": "الْخَبِيرُ",
+        "transliteration": "Al Khabeer",
+        "number": 31,
+        "start": 58.40,
+        "en": {
+            "meaning": "The All Aware"
+        }
+    },
+    {
+        "name": "الْحَلِيمُ",
+        "transliteration": "Al Haleem",
+        "number": 32,
+        "start": 60.30,
+        "en": {
+            "meaning": "The Forebearing"
+        }
+    },
+    {
+        "name": "الْعَظِيمُ",
+        "transliteration": "Al 'Azeem",
+        "number": 33,
+        "start": 61.50,
+        "en": {
+            "meaning": "The Maginificent"
+        }
+    },
+    {
+        "name": "الْغَفُورُ",
+        "transliteration": "Al Ghafoor",
+        "number": 34,
+        "start": 63.00,
+        "en": {
+            "meaning": "The Great Forgiver"
+        }
+    },
+    {
+        "name": "الشَّكُورُ",
+        "transliteration": "Ash Shakoor",
+        "number": 35,
+        "start": 64.40,
+        "en": {
+            "meaning": "The Rewarder of Thankfulness"
+        }
+    },
+    {
+        "name": "الْعَلِيُّ",
+        "transliteration": "Al 'Aliyy",
+        "number": 36,
+        "start": 65.90,
+        "en": {
+            "meaning": "The Highest"
+        }
+    },
+    {
+        "name": "الْكَبِيرُ",
+        "transliteration": "Al Kabeer",
+        "number": 37,
+        "start": 67.30,
+        "en": {
+            "meaning": "The Greatest"
+        }
+    },
+    {
+        "name": "الْحَفِيظُ",
+        "transliteration": "Al Hafeez",
+        "number": 38,
+        "start": 68.50,
+        "en": {
+            "meaning": "The Preserver"
+        }
+    },
+    {
+        "name": "المُقيِت",
+        "transliteration": "Al Muqeet",
+        "number": 39,
+        "start": 69.60,
+        "en": {
+            "meaning": "The Nourisher"
+        }
+    },
+    {
+        "name": "الْحسِيبُ",
+        "transliteration": "Al Haseeb",
+        "number": 40,
+        "start": 71.00,
+        "en": {
+            "meaning": "The Reckoner"
+        }
+    },
+    {
+        "name": "الْجَلِيلُ",
+        "transliteration": "Al Jaleel",
+        "number": 41,
+        "start": 72.50,
+        "en": {
+            "meaning": "The Majestic"
+        }
+    },
+    {
+        "name": "الْكَرِيمُ",
+        "transliteration": "Al Kareem",
+        "number": 42,
+        "start": 73.90,
+        "en": {
+            "meaning": "The Generous"
+        }
+    },
+    {
+        "name": "الرَّقِيبُ",
+        "transliteration": "Ar Raqeeb",
+        "number": 43,
+        "start": 75.50,
+        "en": {
+            "meaning": "The Watchful One"
+        }
+    },
+    {
+        "name": "الْمُجِيبُ",
+        "transliteration": "Al Mujeeb ",
+        "number": 44,
+        "start": 77.10,
+        "en": {
+            "meaning": "The Responder to Prayer"
+        }
+    },
+    {
+        "name": "الْوَاسِعُ",
+        "transliteration": "Al Waasi'",
+        "number": 45,
+        "start": 78.60,
+        "en": {
+            "meaning": "The All Comprehending"
+        }
+    },
+    {
+        "name": "الْحَكِيمُ",
+        "transliteration": "Al Hakeem",
+        "number": 46,
+        "start": 80.00,
+        "en": {
+            "meaning": "The Perfectly Wise"
+        }
+    },
+    {
+        "name": "الْوَدُودُ",
+        "transliteration": "Al Wudood",
+        "number": 47,
+        "start": 81.40,
+        "en": {
+            "meaning": "The Loving One"
+        }
+    },
+    {
+        "name": "الْمَجِيدُ",
+        "transliteration": "Al Majeed",
+        "number": 48,
+        "start": 82.40,
+        "en": {
+            "meaning": "The Most Glorious One"
+        }
+    },
+    {
+        "name": "الْبَاعِثُ",
+        "transliteration": "Al Baa'ith",
+        "number": 49,
+        "start": 84.20,
+        "en": {
+            "meaning": "The Resurrector"
+        }
+    },
+    {
+        "name": "الشَّهِيدُ",
+        "transliteration": "Ash Shaheed",
+        "number": 50,
+        "start": 86.00,
+        "en": {
+            "meaning": "The Witness"
+        }
+    },
+    {
+        "name": "الْحَقُّ",
+        "transliteration": "Al Haqq",
+        "number": 51,
+        "start": 87.40,
+        "en": {
+            "meaning": "The Truth"
+        }
+    },
+    {
+        "name": "الْوَكِيلُ",
+        "transliteration": "Al Wakeel",
+        "number": 52,
+        "start": 88.60,
+        "en": {
+            "meaning": "The Trustee"
+        }
+    },
+    {
+        "name": "الْقَوِيُّ",
+        "transliteration": "Al Qawiyy",
+        "number": 53,
+        "start": 89.90,
+        "en": {
+            "meaning": "The Possessor of all strength"
+        }
+    },
+    {
+        "name": "الْمَتِينُ",
+        "transliteration": "Al Mateen",
+        "number": 54,
+        "start": 91.10,
+        "en": {
+            "meaning": "The Forceful"
+        }
+    },
+    {
+        "name": "الْوَلِيُّ",
+        "transliteration": "Al Waliyy",
+        "number": 55,
+        "start": 92.80,
+        "en": {
+            "meaning": "The Protector"
+        }
+    },
+    {
+        "name": "الْحَمِيدُ",
+        "transliteration": "Al Hameed",
+        "number": 56,
+        "start": 94.20,
+        "en": {
+            "meaning": "The Praised"
+        }
+    },
+    {
+        "name": "الْمُحْصِي",
+        "transliteration": "Al Muhsi",
+        "number": 57,
+        "start": 95.50,
+        "en": {
+            "meaning": "The Appraiser"
+        }
+    },
+    {
+        "name": "الْمُبْدِئُ",
+        "transliteration": "Al Mubdi",
+        "number": 58,
+        "start": 96.50,
+        "en": {
+            "meaning": "The Originator"
+        }
+    },
+    {
+        "name": "الْمُعِيدُ",
+        "transliteration": "Al Mu'eed",
+        "number": 59,
+        "start": 97.90,
+        "en": {
+            "meaning": "The Restorer"
+        }
+    },
+    {
+        "name": "الْمُحْيِي",
+        "transliteration": "Al Muhiy",
+        "number": 60,
+        "start": 99.00,
+        "en": {
+            "meaning": "The Giver of life"
+        }
+    },
+    {
+        "name": "اَلْمُمِيتُ",
+        "transliteration": "Al Mumeet",
+        "number": 61,
+        "start": 100.30,
+        "en": {
+            "meaning": "The Taker of life"
+        }
+    },
+    {
+        "name": "الْحَيُّ",
+        "transliteration": "Al Haiyy",
+        "number": 62,
+        "start": 101.60,
+        "en": {
+            "meaning": "The Ever Living"
+        }
+    },
+    {
+        "name": "الْقَيُّومُ",
+        "transliteration": "Al Qayyoom",
+        "number": 63,
+        "start": 102.50,
+        "en": {
+            "meaning": "The Self Existing"
+        }
+    },
+    {
+        "name": "الْوَاجِدُ",
+        "transliteration": "Al Waajid",
+        "number": 64,
+        "start": 104.00,
+        "en": {
+            "meaning": "The Finder"
+        }
+    },
+    {
+        "name": "الْمَاجِدُ",
+        "transliteration": "Al Maajid",
+        "number": 65,
+        "start": 106.10,
+        "en": {
+            "meaning": "The Glorious"
+        }
+    },
+    {
+        "name": "الْواحِدُ",
+        "transliteration": "Al Waahid",
+        "number": 66,
+        "start": 107.80,
+        "en": {
+            "meaning": "The Only One"
+        }
+    },
+    {
+        "name": "اَلاَحَدُ",
+        "transliteration": "Al Ahad",
+        "number": 67,
+        "start": 109.00,
+        "en": {
+            "meaning": "The One"
+        }
+    },
+    {
+        "name": "الصَّمَدُ",
+        "transliteration": "As Samad",
+        "number": 68,
+        "start": 109.30,
+        "en": {
+            "meaning": "The Supreme Provider"
+        }
+    },
+    {
+        "name": "الْقَادِرُ",
+        "transliteration": "Al Qaadir",
+        "number": 69,
+        "start": 110.60,
+        "en": {
+            "meaning": "The Powerful"
+        }
+    },
+    {
+        "name": "الْمُقْتَدِرُ",
+        "transliteration": "Al Muqtadir",
+        "number": 70,
+        "start": 112.20,
+        "en": {
+            "meaning": "The Creator of all power"
+        }
+    },
+    {
+        "name": "الْمُقَدِّمُ",
+        "transliteration": "Al Muqaddim",
+        "number": 71,
+        "start": 113.60,
+        "en": {
+            "meaning": "The Expediter"
+        }
+    },
+    {
+        "name": "الْمُؤَخِّرُ",
+        "transliteration": "Al Mu’akhir",
+        "number": 72,
+        "start": 115.60,
+        "en": {
+            "meaning": "The Delayer"
+        }
+    },
+    {
+        "name": "الأوَّلُ",
+        "transliteration": "Al Awwal",
+        "number": 73,
+        "start": 116.70,
+        "en": {
+            "meaning": "The First"
+        }
+    },
+    {
+        "name": "الآخِرُ",
+        "transliteration": "Al Aakhir",
+        "number": 74,
+        "start": 117.90,
+        "en": {
+            "meaning": "The Last"
+        }
+    },
+    {
+        "name": "الظَّاهِرُ",
+        "transliteration": "Az Zaahir",
+        "number": 75,
+        "start": 119.00,
+        "en": {
+            "meaning": "The Manifest"
+        }
+    },
+    {
+        "name": "الْبَاطِنُ",
+        "transliteration": "Al Baatin",
+        "number": 76,
+        "start": 120.90,
+        "en": {
+            "meaning": "The Hidden"
+        }
+    },
+    {
+        "name": "الْوَالِي",
+        "transliteration": "Al Waali",
+        "number": 77,
+        "start": 122.60,
+        "en": {
+            "meaning": "The Governor"
+        }
+    },
+    {
+        "name": "الْمُتَعَالِي",
+        "transliteration": "Al Muta’ali",
+        "number": 78,
+        "start": 124.00,
+        "en": {
+            "meaning": "The Supreme One"
+        }
+    },
+    {
+        "name": "الْبَرُّ",
+        "transliteration": "Al Barr",
+        "number": 79,
+        "start": 125.00,
+        "en": {
+            "meaning": "The Doer of Good"
+        }
+    },
+    {
+        "name": "التَّوَابُ",
+        "transliteration": "At Tawwaab",
+        "number": 80,
+        "start": 126.00,
+        "en": {
+            "meaning": "The Guide to Repentence"
+        }
+    },
+    {
+        "name": "الْمُنْتَقِمُ",
+        "transliteration": "Al Muntaqim",
+        "number": 81,
+        "start": 127.90,
+        "en": {
+            "meaning": "The Avenger"
+        }
+    },
+    {
+        "name": "العَفُوُّ",
+        "transliteration": "Al Afuww",
+        "number": 82,
+        "start": 129.40,
+        "en": {
+            "meaning": "The Forgiver"
+        }
+    },
+    {
+        "name": "الرَّؤُوفُ",
+        "transliteration": "Ar Ra’oof",
+        "number": 83,
+        "start": 130.40,
+        "en": {
+            "meaning": "The Clement"
+        }
+    },
+    {
+        "name": "مَالِكُ الْمُلْكِ",
+        "transliteration": "Maalik Ul Mulk",
+        "number": 84,
+        "start": 131.80,
+        "en": {
+            "meaning": "The Owner / Soverign of All"
+        }
+    },
+    {
+        "name": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+        "transliteration": "Dhu Al Jalaali Wa Al Ikraam",
+        "number": 85,
+        "start": 134.10,
+        "en": {
+            "meaning": "Possessor of Majesty and Bounty"
+        }
+    },
+    {
+        "name": "الْمُقْسِطُ",
+        "transliteration": "Al Muqsit",
+        "number": 86,
+        "start": 137.50,
+        "en": {
+            "meaning": "The Equitable One"
+        }
+    },
+    {
+        "name": "الْجَامِعُ",
+        "transliteration": "Al Jaami'",
+        "number": 87,
+        "start": 138.90,
+        "en": {
+            "meaning": "The Gatherer"
+        }
+    },
+    {
+        "name": "الْغَنِيُّ",
+        "transliteration": "Al Ghaniyy",
+        "number": 88,
+        "start": 140.50,
+        "en": {
+            "meaning": "The Rich One"
+        }
+    },
+    {
+        "name": "الْمُغْنِي",
+        "transliteration": "Al Mughi",
+        "number": 89,
+        "start": 141.70,
+        "en": {
+            "meaning": "The Enricher"
+        }
+    },
+    {
+        "name": "اَلْمَانِعُ",
+        "transliteration": "Al Maani'",
+        "number": 90,
+        "start": 143.00,
+        "en": {
+            "meaning": "The Preventer of harm"
+        }
+    },
+    {
+        "name": "الضَّارَّ",
+        "transliteration": "Ad Daaarr",
+        "number": 91,
+        "start": 144.80,
+        "en": {
+            "meaning": "The Creator of the harmful"
+        }
+    },
+    {
+        "name": "النَّافِعُ",
+        "transliteration": "An Naafi’",
+        "number": 92,
+        "start": 149.00,
+        "en": {
+            "meaning": "The Bestower of Benefits"
+        }
+    },
+    {
+        "name": "النُّورُ",
+        "transliteration": "An Noor",
+        "number": 93,
+        "start": 150.10,
+        "en": {
+            "meaning": "The Light"
+        }
+    },
+    {
+        "name": "الْهَادِي",
+        "transliteration": "Al Haadi",
+        "number": 94,
+        "start": 151.60,
+        "en": {
+            "meaning": "The Guider"
+        }
+    },
+    {
+        "name": "الْبَدِيعُ",
+        "transliteration": "Al Badi'",
+        "number": 95,
+        "start": 152.70,
+        "en": {
+            "meaning": "The Originator"
+        }
+    },
+    {
+        "name": "اَلْبَاقِي",
+        "transliteration": "Al Baaqi",
+        "number": 96,
+        "start": 154.50,
+        "en": {
+            "meaning": "The Everlasting One"
+        }
+    },
+    {
+        "name": "الْوَارِثُ",
+        "transliteration": "Al Waarith",
+        "number": 97,
+        "start": 156.00,
+        "en": {
+            "meaning": "The Inhertior"
+        }
+    },
+    {
+        "name": "الرَّشِيدُ",
+        "transliteration": "Ar Rasheed",
+        "number": 98,
+        "start": 158.00,
+        "en": {
+            "meaning": "The Most Righteous Guide"
+        }
+    },
+    {
+        "name": "الصَّبُورُ",
+        "transliteration": "As Saboor",
+        "number": 99,
+        "start": 159.20,
+        "en": {
+            "meaning": "The Patient One"
+        }
+    }
+]
